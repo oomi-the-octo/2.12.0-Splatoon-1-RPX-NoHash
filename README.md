@@ -5,7 +5,7 @@ This was tested, it does not ban on Nintendo Network and also does not kick you 
 I am not responsable if you get banned while using it. You must have used a edited Static.pack mod that might have being risky to use. 
 (ex : Hidden Gear, or Hidden Weapons, etc...)
 
-This RPX is EUR only, i have no idea if it wors for JP or US.
+This RPX is EUR only, i have no idea if it works for JP or US.
 
 Place the file at : 
 
