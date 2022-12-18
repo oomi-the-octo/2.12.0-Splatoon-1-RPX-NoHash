@@ -8,4 +8,5 @@ This RPX is EUR only, i have no idea if it wors for JP or US.
 
 Place the file at : 
 If using a USB storage which ou put Splatoon in : Storage_usb\usr\title\0005000e\10176a00\code
+
 If using the WiiU which ou put Splatoon in : Storage_mlc\usr\title\0005000e\10176a00\code
