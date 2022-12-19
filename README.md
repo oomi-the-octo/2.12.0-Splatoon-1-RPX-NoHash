@@ -12,3 +12,5 @@ Place the file at :
 If using a USB storage which you put Splatoon in : Storage_usb\usr\title\0005000e\10176a00\code
 
 If using the WiiU which you put Splatoon in : Storage_mlc\usr\title\0005000e\10176a00\code
+
+Once you done that, boot Splatoon, if you see "Ver. NoHash" it means it patched successfully! ![image](https://user-images.githubusercontent.com/99236152/208328047-557e4689-ea55-4e38-afd0-83202f321b69.png)
