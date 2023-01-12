@@ -6,6 +6,7 @@ This was tested, it does not ban on Nintendo Network and also does not kick you 
 I am not responsable if you get banned while using it. You must have used a edited Static.pack mod that might have being risky to use. 
 (ex : Hidden Gear, or Hidden Weapons, etc...)
 
+I have not tested JGecko U cheats to see if they worked after the edit, if you can, please contact me with info (SRC_SFWiiU#7683)
 -----------------------------------------------------------------------------------
 
 This RPX is EUR only, i have no idea if it works for JP or US.
