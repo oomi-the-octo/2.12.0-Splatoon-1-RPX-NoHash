@@ -1,6 +1,7 @@
 # Splatoon-1-RPX-NoHash
 [READ THIS BEFORE INJECTING IT.] 
-*THIS IS ONLY FOR 2.12.0*
+**THIS IS ONLY FOR 2.12.0**
+
 Permanent No-Hash edit on RPX, works for Wii U and Cemu.
 This was tested, it does not ban on Nintendo Network and also does not kick you in a match.
 DO NOT USE ANY HIDDEN GEAR OR HIDDEN WEAPONS : This is just for No Hash, it doesn't allow you to use hidden gear/weapons safely online.
