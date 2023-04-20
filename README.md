@@ -5,11 +5,17 @@
 Permanent No-Hash edit on RPX, works for Wii U and Cemu.
 
 Please use the graphicsPacks patches of No-Hash if you use cemu.
+
 Please use cafiine No-Hash or the JGecko U Code for Wii U. 
+
 Code : 
+
 Anti Ban [No-Hash]
+
 00020000 106E868C
+
 7AAF4CD4 00000000
+
 -----------------------------------------------------------------------------------
 
 Place the file at : 
