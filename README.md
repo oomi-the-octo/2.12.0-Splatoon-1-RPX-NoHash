@@ -12,11 +12,9 @@ I am not responsable if you get banned while using it. You must have used a edit
 PLEASE USE ANY OTHER NOHASH PATCHES THAN THIS.
 -----------------------------------------------------------------------------------
 
-This RPX 
-
 Place the file at : 
 
-If using a USB storage which you put Splatoon in : Storage_usb\usr\title\0005000e\10176a00\code
-If using the WiiU which you put Splatoon in : Storage_mlc\usr\title\0005000e\10176a00\code
+If using a USB storage : Storage_usb\usr\title\0005000e\10176a00\code
+If using the WiiU storage : Storage_mlc\usr\title\0005000e\10176a00\code
 
 
